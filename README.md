@@ -109,34 +109,11 @@ If you encounter any problems or have suggestions, please [open an issue](https:
 
 ## Authors
 
-- Hasan Furkan - Initial work - [YourGitHubUsername](https://github.com/hasan-furkan)
+- Hasan Furkan - Initial work - [hasan-furkan](https://github.com/hasan-furkan)
 
 ## Acknowledgments
 
 - Thanks to the Django community for inspiration
 - All the contributors who participate in this project
 ```
-
-Remember to replace the following placeholders:
-- `License` in the LICENSE file
-- `yourusername` in the README.md file
-- Update the year in the LICENSE if needed
-- Add your actual GitHub username and links
-
-The README.md provides:
-1. Clear installation instructions
-2. Usage examples
-3. Advanced usage scenarios
-4. Contributing guidelines
-5. License information
-6. Support information
-
-You might want to add:
-1. Screenshots or GIFs demonstrating usage
-2. More detailed examples
-3. Troubleshooting section
-4. Changelog
-5. FAQ section
-
-as your package grows and users provide feedback.
 
