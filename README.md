@@ -105,11 +105,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any problems or have suggestions, please [open an issue](https://github.com/yourusername/django-model-logger/issues) on GitHub.
+If you encounter any problems or have suggestions, please [open an issue](https://github.com/hasan-furkan/django-model-logger/issues) on GitHub.
 
 ## Authors
 
-- Your Name - Initial work - [YourGitHubUsername](https://github.com/yourusername)
+- Hasan Furkan - Initial work - [YourGitHubUsername](https://github.com/hasan-furkan)
 
 ## Acknowledgments
 
@@ -118,7 +118,7 @@ If you encounter any problems or have suggestions, please [open an issue](https:
 ```
 
 Remember to replace the following placeholders:
-- `[Your Name]` in the LICENSE file
+- `License` in the LICENSE file
 - `yourusername` in the README.md file
 - Update the year in the LICENSE if needed
 - Add your actual GitHub username and links
