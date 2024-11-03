@@ -106,14 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any problems or have suggestions, please [open an issue](https://github.com/hasan-furkan/django-model-logger/issues) on GitHub.
-
-## Authors
-
-- Hasan Furkan - Initial work - [hasan-furkan](https://github.com/hasan-furkan)
-
-## Acknowledgments
-
-- Thanks to the Django community for inspiration
-- All the contributors who participate in this project
-```
-
