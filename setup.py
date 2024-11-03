@@ -26,5 +26,6 @@ setup(
     ],
     install_requires=[
         'Django>=3.2',
+        'colorama>=0.4.4',
     ],
 ) 
